@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression" >
+   <test name="Swager" >
+       <classes> 
+          <class name="runners.TestRunnerPet" />
+           <class name="runners.TestRunnerStore"/>
+       </classes>
+   </test>
+ </suite>

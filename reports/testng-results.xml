@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-10T23:08:43 IST" name="Default suite" finished-at="2021-11-10T23:09:06 IST" duration-ms="23040">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestRunnerPet@6580cfdd]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-11-10T23:08:43 IST" name="Default test" finished-at="2021-11-10T23:09:06 IST" duration-ms="23040">
+      <class name="runners.TestRunnerPet">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:runners.TestRunnerPet@6580cfdd]" started-at="2021-11-10T23:08:43 IST" name="setUpClass" finished-at="2021-11-10T23:08:44 IST" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestRunnerPet@6580cfdd]" started-at="2021-11-10T23:08:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-10T23:08:52 IST" duration-ms="8567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user can add pet to store inventory"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Pet Store Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestRunnerPet@6580cfdd]" started-at="2021-11-10T23:08:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-10T23:08:59 IST" duration-ms="6865" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user can update pet in store inventory"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Pet Store Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runners.TestRunnerPet@6580cfdd]" started-at="2021-11-10T23:08:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-10T23:09:06 IST" duration-ms="6671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user can delete pet from store inventory"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Pet Store Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runners.TestRunnerPet@6580cfdd]" started-at="2021-11-10T23:09:06 IST" name="tearDownClass" finished-at="2021-11-10T23:09:06 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runners.TestRunnerPet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

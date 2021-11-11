@@ -1,0 +1,97 @@
+2021-11-12 00:06:12.150 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts id :: [9432], name :: [Lizzi], status :: [Available] about pet 
+2021-11-12 00:06:12.162 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts category details id :: [43], name :: [Doggo]
+2021-11-12 00:06:12.163 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts photo url :: [www.petdata.com/Lizzi.jpg]
+2021-11-12 00:06:12.166 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts tags details id :: [6], name :: [Labradore]
+2021-11-12 00:06:16.706 [main] INFO  com.swagger.utils.PrintLog                        : Endpoint :: [https://petstore.swagger.io/v2/pet]
+2021-11-12 00:06:16.719 [main] INFO  com.swagger.utils.PrintLog                        : Cookies :: [{}]
+2021-11-12 00:06:16.719 [main] INFO  com.swagger.utils.PrintLog                        : Status Code :: [200]
+2021-11-12 00:06:16.719 [main] INFO  com.swagger.utils.PrintLog                        : Status Line :: [HTTP/1.1 200 OK]
+2021-11-12 00:06:16.719 [main] INFO  com.swagger.utils.PrintLog                        : Session ID :: [null]
+2021-11-12 00:06:16.721 [main] INFO  com.swagger.utils.PrintLog                        : Response Time :: [3384] milliseconds
+2021-11-12 00:06:16.722 [main] INFO  com.swagger.utils.PrintLog                        : Response :: [{"id":9432,"category":{"id":43,"name":"Doggo"},"name":"Lizzi","photoUrls":["www.petdata.com/Lizzi.jpg"],"tags":[{"id":6,"name":"Labradore"}],"status":"Available"}]
+2021-11-12 00:06:16.722 [main] INFO  com.swagger.utils.PrintLog                        : Message :: [null]
+2021-11-12 00:06:16.722 [main] INFO  com.swagger.utils.PrintLog                        : 
+
+2021-11-12 00:06:18.499 [main] INFO  com.swagger.utils.PrintLog                        : Endpoint :: [https://petstore.swagger.io/v2/pet/{petId}]
+2021-11-12 00:06:18.501 [main] INFO  com.swagger.utils.PrintLog                        : Cookies :: [{}]
+2021-11-12 00:06:18.501 [main] INFO  com.swagger.utils.PrintLog                        : Status Code :: [200]
+2021-11-12 00:06:18.501 [main] INFO  com.swagger.utils.PrintLog                        : Status Line :: [HTTP/1.1 200 OK]
+2021-11-12 00:06:18.501 [main] INFO  com.swagger.utils.PrintLog                        : Session ID :: [null]
+2021-11-12 00:06:18.502 [main] INFO  com.swagger.utils.PrintLog                        : Response Time :: [1625] milliseconds
+2021-11-12 00:06:18.503 [main] INFO  com.swagger.utils.PrintLog                        : Response :: [{"id":9432,"category":{"id":43,"name":"Doggo"},"name":"Lizzi","photoUrls":["www.petdata.com/Lizzi.jpg"],"tags":[{"id":6,"name":"Labradore"}],"status":"Available"}]
+2021-11-12 00:06:18.503 [main] INFO  com.swagger.utils.PrintLog                        : Message :: [null]
+2021-11-12 00:06:18.503 [main] INFO  com.swagger.utils.PrintLog                        : 
+
+2021-11-12 00:06:18.511 [main] INFO  stepdefinitions.StepDefinitionsPet                : Successfully validated all the fields ::
+2021-11-12 00:06:18.578 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts id :: [85783], name :: [Snuffy], status :: [Available] about pet 
+2021-11-12 00:06:18.579 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts category details id :: [43], name :: [Doggo]
+2021-11-12 00:06:18.580 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts photo url :: [www.petdata.com/Snuffy.jpg]
+2021-11-12 00:06:18.580 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts tags details id :: [6], name :: [Labradore]
+2021-11-12 00:06:20.097 [main] INFO  com.swagger.utils.PrintLog                        : Endpoint :: [https://petstore.swagger.io/v2/pet]
+2021-11-12 00:06:20.098 [main] INFO  com.swagger.utils.PrintLog                        : Cookies :: [{}]
+2021-11-12 00:06:20.098 [main] INFO  com.swagger.utils.PrintLog                        : Status Code :: [200]
+2021-11-12 00:06:20.098 [main] INFO  com.swagger.utils.PrintLog                        : Status Line :: [HTTP/1.1 200 OK]
+2021-11-12 00:06:20.098 [main] INFO  com.swagger.utils.PrintLog                        : Session ID :: [null]
+2021-11-12 00:06:20.098 [main] INFO  com.swagger.utils.PrintLog                        : Response Time :: [1456] milliseconds
+2021-11-12 00:06:20.099 [main] INFO  com.swagger.utils.PrintLog                        : Response :: [{"id":85783,"category":{"id":43,"name":"Doggo"},"name":"Snuffy","photoUrls":["www.petdata.com/Snuffy.jpg"],"tags":[{"id":6,"name":"Labradore"}],"status":"Available"}]
+2021-11-12 00:06:20.099 [main] INFO  com.swagger.utils.PrintLog                        : Message :: [null]
+2021-11-12 00:06:20.099 [main] INFO  com.swagger.utils.PrintLog                        : 
+
+2021-11-12 00:06:21.720 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts id :: [876542313], name :: [Pot], status :: [Available] about pet 
+2021-11-12 00:06:21.722 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts category details id :: [1631], name :: [Doggo]
+2021-11-12 00:06:21.722 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts photo url :: [www.petdata.com/Pot.jpg]
+2021-11-12 00:06:21.723 [main] INFO  stepdefinitions.StepDefinitionsPet                : User puts tags details id :: [6], name :: [Labradore]
+2021-11-12 00:06:23.189 [main] INFO  com.swagger.utils.PrintLog                        : Endpoint :: [https://petstore.swagger.io/v2/pet]
+2021-11-12 00:06:23.190 [main] INFO  com.swagger.utils.PrintLog                        : Cookies :: [{}]
+2021-11-12 00:06:23.190 [main] INFO  com.swagger.utils.PrintLog                        : Status Code :: [200]
+2021-11-12 00:06:23.190 [main] INFO  com.swagger.utils.PrintLog                        : Status Line :: [HTTP/1.1 200 OK]
+2021-11-12 00:06:23.190 [main] INFO  com.swagger.utils.PrintLog                        : Session ID :: [null]
+2021-11-12 00:06:23.190 [main] INFO  com.swagger.utils.PrintLog                        : Response Time :: [1418] milliseconds
+2021-11-12 00:06:23.190 [main] INFO  com.swagger.utils.PrintLog                        : Response :: [{"id":876542313,"category":{"id":1631,"name":"Doggo"},"name":"Pot","photoUrls":["www.petdata.com/Pot.jpg"],"tags":[{"id":6,"name":"Labradore"}],"status":"Available"}]
+2021-11-12 00:06:23.190 [main] INFO  com.swagger.utils.PrintLog                        : Message :: [null]
+2021-11-12 00:06:23.190 [main] INFO  com.swagger.utils.PrintLog                        : 
+
+2021-11-12 00:06:24.806 [main] INFO  stepdefinitions.StepDefinitionStore               : Store data values as ID 32 , PetId 211, Quantity 2443
+2021-11-12 00:06:24.815 [main] INFO  stepdefinitions.StepDefinitionStore               : Store data values :::2021-11-11T15:48:10.845,Placed,true
+2021-11-12 00:06:26.311 [main] INFO  com.swagger.utils.PrintLog                        : Endpoint :: [https://petstore.swagger.io/v2/store/order]
+2021-11-12 00:06:26.312 [main] INFO  com.swagger.utils.PrintLog                        : Cookies :: [{}]
+2021-11-12 00:06:26.312 [main] INFO  com.swagger.utils.PrintLog                        : Status Code :: [200]
+2021-11-12 00:06:26.313 [main] INFO  com.swagger.utils.PrintLog                        : Status Line :: [HTTP/1.1 200 OK]
+2021-11-12 00:06:26.313 [main] INFO  com.swagger.utils.PrintLog                        : Session ID :: [null]
+2021-11-12 00:06:26.314 [main] INFO  com.swagger.utils.PrintLog                        : Response Time :: [1472] milliseconds
+2021-11-12 00:06:26.315 [main] INFO  com.swagger.utils.PrintLog                        : Response :: [{"id":32,"petId":211,"quantity":2443,"shipDate":"2021-11-11T15:48:10.845+0000","status":"Placed","complete":true}]
+2021-11-12 00:06:26.315 [main] INFO  com.swagger.utils.PrintLog                        : Message :: [null]
+2021-11-12 00:06:26.315 [main] INFO  com.swagger.utils.PrintLog                        : 
+
+2021-11-12 00:06:27.801 [main] INFO  com.swagger.utils.PrintLog                        : Endpoint :: [https://petstore.swagger.io/v2/store/order/{orderId}]
+2021-11-12 00:06:27.803 [main] INFO  com.swagger.utils.PrintLog                        : Cookies :: [{}]
+2021-11-12 00:06:27.803 [main] INFO  com.swagger.utils.PrintLog                        : Status Code :: [200]
+2021-11-12 00:06:27.803 [main] INFO  com.swagger.utils.PrintLog                        : Status Line :: [HTTP/1.1 200 OK]
+2021-11-12 00:06:27.803 [main] INFO  com.swagger.utils.PrintLog                        : Session ID :: [null]
+2021-11-12 00:06:27.803 [main] INFO  com.swagger.utils.PrintLog                        : Response Time :: [1450] milliseconds
+2021-11-12 00:06:27.803 [main] INFO  com.swagger.utils.PrintLog                        : Response :: [{"id":32,"petId":211,"quantity":2443,"shipDate":"2021-11-11T15:48:10.845+0000","status":"Placed","complete":true}]
+2021-11-12 00:06:27.804 [main] INFO  com.swagger.utils.PrintLog                        : Message :: [null]
+2021-11-12 00:06:27.804 [main] INFO  com.swagger.utils.PrintLog                        : 
+
+2021-11-12 00:06:27.829 [main] INFO  stepdefinitions.StepDefinitionStore               : Store data values as ID 32 , PetId 211, Quantity 2443
+2021-11-12 00:06:27.830 [main] INFO  stepdefinitions.StepDefinitionStore               : Store data values :::2021-11-11T15:48:10.845,Placed,true
+2021-11-12 00:06:29.240 [main] INFO  com.swagger.utils.PrintLog                        : Endpoint :: [https://petstore.swagger.io/v2/store/order]
+2021-11-12 00:06:29.242 [main] INFO  com.swagger.utils.PrintLog                        : Cookies :: [{}]
+2021-11-12 00:06:29.242 [main] INFO  com.swagger.utils.PrintLog                        : Status Code :: [200]
+2021-11-12 00:06:29.242 [main] INFO  com.swagger.utils.PrintLog                        : Status Line :: [HTTP/1.1 200 OK]
+2021-11-12 00:06:29.242 [main] INFO  com.swagger.utils.PrintLog                        : Session ID :: [null]
+2021-11-12 00:06:29.243 [main] INFO  com.swagger.utils.PrintLog                        : Response Time :: [1402] milliseconds
+2021-11-12 00:06:29.244 [main] INFO  com.swagger.utils.PrintLog                        : Response :: [{"id":32,"petId":211,"quantity":2443,"shipDate":"2021-11-11T15:48:10.845+0000","status":"Placed","complete":true}]
+2021-11-12 00:06:29.244 [main] INFO  com.swagger.utils.PrintLog                        : Message :: [null]
+2021-11-12 00:06:29.244 [main] INFO  com.swagger.utils.PrintLog                        : 
+
+2021-11-12 00:06:30.687 [main] INFO  com.swagger.utils.PrintLog                        : Endpoint :: [https://petstore.swagger.io/v2/store/order/{orderId}]
+2021-11-12 00:06:30.688 [main] INFO  com.swagger.utils.PrintLog                        : Cookies :: [{}]
+2021-11-12 00:06:30.688 [main] INFO  com.swagger.utils.PrintLog                        : Status Code :: [200]
+2021-11-12 00:06:30.688 [main] INFO  com.swagger.utils.PrintLog                        : Status Line :: [HTTP/1.1 200 OK]
+2021-11-12 00:06:30.688 [main] INFO  com.swagger.utils.PrintLog                        : Session ID :: [null]
+2021-11-12 00:06:30.689 [main] INFO  com.swagger.utils.PrintLog                        : Response Time :: [1426] milliseconds
+2021-11-12 00:06:30.690 [main] INFO  com.swagger.utils.PrintLog                        : Response :: [{"code":200,"type":"unknown","message":"32"}]
+2021-11-12 00:06:30.690 [main] INFO  com.swagger.utils.PrintLog                        : Message :: [Deleted Order Successfully with Order ID :: [32]]
+2021-11-12 00:06:30.690 [main] INFO  com.swagger.utils.PrintLog                        : 
+
